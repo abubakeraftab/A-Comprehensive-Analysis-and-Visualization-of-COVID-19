@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "covid-analysis-405023",
+  "private_key_id": "1e9ecabae8b9e340712b512538825bf373d34896",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5HMTBB4IKbsbG\nrrC54iCsG6TYm/0eURxOdpiXoiz5VFQosFCjy4esBoYaeGv9RjcDdhcaIgkTTyYJ\nMFgnDJ5UoCVEnA/DGZKkWOsUaqfkLM3XpE11V7422WE6KGP4zxBhFbZ4+UD09GyE\nkmxEdfAeYbZ9/B6Drjp6M1cruIPmea0o/yu0tP9YURumNvzZJINUnseR0U6kt2Ka\neJn/tSU6Kqm/y+HLn3eSVpi8fVGlfZeFjWMnAomb6WoLZ1NufqoozXJFHd+n+j9X\n1F/oXrh7MygjBIBU7hQG75/9ECLM+rAhHQ0H1j3TrZwAFONviCjSM7ibSkBgslEM\nC1fnFxMTAgMBAAECggEAB8R7RRZJkKKBWMjvxX0FnfMzAZvaDTGeHHTBhmtZs8Sk\nG2j6mUTrFn7XlbjD30bY/B4ybfhLpTHHCM+sg0b2RdrKdYyO5MLn8lmA08R98wcm\nRAwy69+YrbiFaelT+JbHuyssEvtyjFTNUOrL/Dturfevrq2roh7neUU6PS1q63rR\nN+SVal40qyWPU4vxbjJVhdK2xylqK8qtnwdnG30g4ZyeqR0wLBD9/f+QWMvoS6KP\nib74Xw7gaDLF2VBViSY2kPms31jcqEpiPTlGfd8n5OR/NJjA6AxiFVxR9LJ8wllH\n0KXwHYdPHlxhZy/Smw/OZi2Us9VT1T2cGyIDjO7+4QKBgQDyHxZUPolvgt6yX7Vx\nnFjpJTAZkOxfowQzT8vWiY4z0DNO1PaxPlYEdSOxZDPGVhI5SwckkPOZYHfhz/OD\nga53zebXMiusi6HVUNy10nVyRZSFteAJavTGbahKXb1I88z1sEWqvYwSP69aBhfL\nDEUWwY47lrAHh/K+mE8VHyTeaQKBgQDDuSAEDoCM6kcsSnveE0x3WsppUGA/gtTA\ninCdNhVoULEjpWaqAwgYKkXcsu8k8+ynvevjimYfDMnHJ1PlYlE/RvT0t+2LcJa8\nWyq0Z62IHQHcOiHnerQH/ZfUIZwSLwE3MHIHq1gS2L2ssvB0R3uIqg/nAo04a+JD\nQXSEaj7uGwKBgBHDRhgYHm0X5M6hRuZ22e8A026Mu0qo4v4AtKugm9YhSCJYbWDD\nefwJu/yfpUy/s8aQQo3kNHrkIOdoIi1brjkL2gufmqSl+dF0hTyxm/wuLp9AoJcQ\nSbTlBpuuFNztRfQgYnwMO+J62Zp5J/W1iLwKpyyn+XIT/zMMaYDbMBFBAoGAUqKY\nx92vnM9VWXfhMHQJduMYTrqmyGnelaRdw6KQC0j2YUx2OhWplzpR4MqTeZCbPH9N\nVvaaA0YM807Bdzm5f/PffGsjmhnhKol7UEvt0mgc3vSUV/1QgYcqUWAXWv4Jj1me\n62oGd36XJpEuQInluF/E8w36vfWexDKglT+ebj0CgYEAnx+FPg3ZuMqSmx4e1nTt\nX4QjV7wUh+cCVHdzc92h5jtYkJnIEStXc6n12yolXJrsbRCceacIySIzmbRS9gco\nRMXIJMuA9PpY1QsajE1U4f/ryxjy2SmM1eh1ZvOEKtKIzoVXK1ROqIMp4zv2dnRm\nQjiw173/+3R0Y78t5zEATMM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-bigquery-sa@covid-analysis-405023.iam.gserviceaccount.com",
+  "client_id": "107160552216607055036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-bigquery-sa%40covid-analysis-405023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
